@@ -79,22 +79,28 @@ namespace AsyncServer
         {
             Console.WriteLine("Receive: " + result); //виводимо повідомлення, яке отримаємо
             var responce = Encoding.UTF8.GetBytes(result);
+            byte [] temp;
 
             if (result.Equals("date", StringComparison.CurrentCultureIgnoreCase))
             {
-                client.BeginSend(Encoding.UTF8.GetBytes(DateTime.Now.ToShortDateString()), 0, responce.Length, SocketFlags.None, SendCallBack, client);
 
-                //client.Send(Encoding.UTF8.GetBytes(DateTime.Now.ToShortDateString()));  //відправляємо дані клієнту
+                temp = Encoding.UTF8.GetBytes(DateTime.Now.ToShortDateString());
+                client.BeginSend(temp, 0, temp.Length, SocketFlags.None, SendCallBack, client);
+
             }
             else if (result.Equals("time", StringComparison.CurrentCultureIgnoreCase))
             {
-                client.Send(Encoding.UTF8.GetBytes(DateTime.Now.ToShortTimeString()));  //відправляємо дані клієнту
+                temp = Encoding.UTF8.GetBytes(DateTime.Now.ToLongTimeString());
+
+                client.BeginSend(temp, 0, temp.Length, SocketFlags.None, SendCallBack, client);
+
             }
             else
             {
-                client.Send(Encoding.UTF8.GetBytes("Команда не існує!!!"));  //відправляємо дані клієнту
+                temp = Encoding.UTF8.GetBytes("Not command!!!");
+                client.BeginSend(temp, 0, temp.Length, SocketFlags.None, SendCallBack, client);
+
             }
-            client.BeginSend(responce, 0, responce.Length, SocketFlags.None, SendCallBack, client);
         }
 
         private static void SendCallBack(IAsyncResult ar)

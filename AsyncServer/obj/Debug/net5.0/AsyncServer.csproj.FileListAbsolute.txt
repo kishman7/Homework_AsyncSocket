@@ -14,3 +14,19 @@ F:\YURKO\SHAG\C#\29_14112021_System Prog(Exam)_Network Prog (AsyncSocket)\Homewo
 F:\YURKO\SHAG\C#\29_14112021_System Prog(Exam)_Network Prog (AsyncSocket)\Homework_AsyncSocket\AsyncServer\obj\Debug\net5.0\ref\AsyncServer.dll
 F:\YURKO\SHAG\C#\29_14112021_System Prog(Exam)_Network Prog (AsyncSocket)\Homework_AsyncSocket\AsyncServer\obj\Debug\net5.0\AsyncServer.pdb
 F:\YURKO\SHAG\C#\29_14112021_System Prog(Exam)_Network Prog (AsyncSocket)\Homework_AsyncSocket\AsyncServer\obj\Debug\net5.0\AsyncServer.genruntimeconfig.cache
+f:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog(Exam)_Network Prog (AsyncSocket)\Homework_AsyncSocket\AsyncServer\bin\Debug\net5.0\AsyncServer.exe
+f:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog(Exam)_Network Prog (AsyncSocket)\Homework_AsyncSocket\AsyncServer\bin\Debug\net5.0\AsyncServer.deps.json
+f:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog(Exam)_Network Prog (AsyncSocket)\Homework_AsyncSocket\AsyncServer\bin\Debug\net5.0\AsyncServer.runtimeconfig.json
+f:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog(Exam)_Network Prog (AsyncSocket)\Homework_AsyncSocket\AsyncServer\bin\Debug\net5.0\AsyncServer.runtimeconfig.dev.json
+f:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog(Exam)_Network Prog (AsyncSocket)\Homework_AsyncSocket\AsyncServer\bin\Debug\net5.0\AsyncServer.dll
+f:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog(Exam)_Network Prog (AsyncSocket)\Homework_AsyncSocket\AsyncServer\bin\Debug\net5.0\ref\AsyncServer.dll
+f:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog(Exam)_Network Prog (AsyncSocket)\Homework_AsyncSocket\AsyncServer\bin\Debug\net5.0\AsyncServer.pdb
+f:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog(Exam)_Network Prog (AsyncSocket)\Homework_AsyncSocket\AsyncServer\obj\Debug\net5.0\AsyncServer.csprojAssemblyReference.cache
+f:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog(Exam)_Network Prog (AsyncSocket)\Homework_AsyncSocket\AsyncServer\obj\Debug\net5.0\AsyncServer.GeneratedMSBuildEditorConfig.editorconfig
+f:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog(Exam)_Network Prog (AsyncSocket)\Homework_AsyncSocket\AsyncServer\obj\Debug\net5.0\AsyncServer.AssemblyInfoInputs.cache
+f:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog(Exam)_Network Prog (AsyncSocket)\Homework_AsyncSocket\AsyncServer\obj\Debug\net5.0\AsyncServer.AssemblyInfo.cs
+f:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog(Exam)_Network Prog (AsyncSocket)\Homework_AsyncSocket\AsyncServer\obj\Debug\net5.0\AsyncServer.csproj.CoreCompileInputs.cache
+f:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog(Exam)_Network Prog (AsyncSocket)\Homework_AsyncSocket\AsyncServer\obj\Debug\net5.0\AsyncServer.dll
+f:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog(Exam)_Network Prog (AsyncSocket)\Homework_AsyncSocket\AsyncServer\obj\Debug\net5.0\ref\AsyncServer.dll
+f:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog(Exam)_Network Prog (AsyncSocket)\Homework_AsyncSocket\AsyncServer\obj\Debug\net5.0\AsyncServer.pdb
+f:\YURKO\SHAG\Project C#\29_14112021_Lab_System Prog(Exam)_Network Prog (AsyncSocket)\Homework_AsyncSocket\AsyncServer\obj\Debug\net5.0\AsyncServer.genruntimeconfig.cache
